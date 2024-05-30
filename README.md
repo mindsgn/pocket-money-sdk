@@ -3,12 +3,18 @@ Pocket Money SDK is a library that allows you to seamlessly build blockchain agn
 
 This project is currently in early development and is not yet functional. It is a work in progress and is subject to significant changes, including the addition or removal of features and modifications to its functionality.
 
+## Functionality
 
 ## Supported Blockhains
-[ ] Ethereum
-[ ] Polygon
-[ ] Starknet
-[ ] Bitcoin
+
+- [x] Ethereum
+- [x] Polygon
+- [x] Starknet
+- [ ] Bitcoin
+- [ ] XRP
+- [ ] BINANCE
+- [ ] 
+
 
 
 
